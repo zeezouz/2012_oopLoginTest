@@ -1,6 +1,4 @@
-<?php 
-	include('controller.php');
-?>
+<?php include('controller.php'); ?>
 
 <html>
   <head>
